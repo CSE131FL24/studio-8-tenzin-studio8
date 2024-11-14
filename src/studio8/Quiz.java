@@ -41,6 +41,6 @@ public class Quiz {
 		Question[] questions = {q, multipleChoice, selectAll}; //create and add more questions!
 		
 		Quiz studio8quiz = new Quiz(questions);
-		studio8quiz.takeQuiz();
+		studio8quiz.takeQuiz(); 
 	}
 }
